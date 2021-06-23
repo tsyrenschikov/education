@@ -1,6 +1,4 @@
 from random import randint
-
-
 def sel_sort(array):
     for i in range(len(a)-1):
         m=i
